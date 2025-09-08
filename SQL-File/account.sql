@@ -44,7 +44,7 @@ CREATE TABLE `account` (
 --
 
 INSERT INTO `account` (`id`, `name`, `surname`, `email`, `password`, `gender`, `birthday`, `birthmonth`, `birthyear`) VALUES
-(1, 'Burhan', 'Kıran', 'dabadabada@hotmail.com', 'dababababda', 1, 1, 1, 1973),
+(1, 'Oha', 'Lan', 'dabadabada@hotmail.com', 'dababababda', 1, 1, 1, 1973),
 (2, 'mehmet', 'şimşek', 'dororo@gmail.com', 'dararara', 0, 29, 2, 1980),
 (3, 'arda', 'turan', 'ardaturan.1@hotmail.com', 'turanArda', 1, 4, 3, 1985),
 (4, 'hikaru', 'nakamura', 'hikaru@gmail.com', 'hikaru        ', 1, 17, 5, 1974),
